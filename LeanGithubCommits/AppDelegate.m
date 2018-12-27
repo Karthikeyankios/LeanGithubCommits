@@ -19,6 +19,8 @@
     // Override point for customization after application launch.
     NSLog(@"didFinishLaunchingWithOptions");
     NSLog(@"didFinishLaunchingWithOptions Karthik");
+    NSLog(@"didFinishLaunchingWithOptions KarthikNew");
+    
     return YES;
 }
 
